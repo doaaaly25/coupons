@@ -30,3 +30,5 @@ Files
 coupons_assignment.ipynb: Jupyter notebook containing the data analysis with code, plots, and markdown explanations.
 
 README.md: This file, summarizing the project and key findings.
+
+“To view the plots, please download and open the notebook locally.”
