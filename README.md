@@ -15,6 +15,3 @@ found that: those who go to Bars more than once/month, with an age of >25 and <3
 - `coupons_assignments.ipynb`: Jupyter notebook containing data analysis with code and markdown explanations.
 - `README.md`: This file, with an overview of the project.
 
-## View the Notebook
-
-[Click here to view the Jupyter Notebook](coupons_assignments.ipynb)
